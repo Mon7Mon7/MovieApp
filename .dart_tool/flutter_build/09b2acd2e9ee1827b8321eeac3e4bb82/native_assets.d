@@ -1,0 +1,1 @@
+ C:\\Users\\labsfiap\\Desktop\\MovieApp\\.dart_tool\\flutter_build\\09b2acd2e9ee1827b8321eeac3e4bb82\\native_assets.yaml: 
